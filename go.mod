@@ -1,4 +1,4 @@
-module github.com/fsdevdue/goconfig
+module github.com/fsdevdude/goconfig
 
 go 1.19
 
